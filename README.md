@@ -1,5 +1,5 @@
 # Openresty-sso
-OIDC SSO implementation in reverse proxy for Nexus and Jenkins
+OIDC SSO implementation in reverse proxy for Nexus
 
 
 # Nexus-SSO
